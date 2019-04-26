@@ -1,0 +1,15 @@
+.meuFooter{
+    height: 60px;
+    margin-top: 80px;
+    background-color:rgb(128,119,168);
+
+}
+.icons-footer{
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 30px; 
+    margin-top: 15px;    
+}

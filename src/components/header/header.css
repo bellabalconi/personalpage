@@ -1,0 +1,17 @@
+.meu-header{
+background-color:white; 
+     
+}
+.texto-header{
+    color:rgba(182,49,95) !important; 
+}
+.texto-header:hover{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 8px;
+}
+
+
+
+
+

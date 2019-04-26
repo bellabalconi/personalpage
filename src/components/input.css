@@ -1,0 +1,34 @@
+.input-mensagem {
+    margin-bottom: 20px;
+}
+
+.mensagem-campo{
+    color: rgb(64,0,64);
+    font-size: 18px;
+    
+}
+label{
+    color: rgb(64,0,64);
+    font-size: 18px;
+    
+}
+
+.estilo-input {
+    border: 1px solid rgb(147,141,181);
+    border-radius: 6px;
+    padding: 5px;
+    width: 300px;
+    font-size: 15px;;
+    
+}
+.estilo-input:focus{
+    border: 1px dashed rgba(182,49,95,0.5); 
+    border-radius: 6px;
+    outline: none;
+}
+.mensagem-box{
+    height:150px;
+    width: 350px;
+    margin-bottom: 15px;
+
+}

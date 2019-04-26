@@ -1,0 +1,21 @@
+.button { 
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px 10px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    font-weight: bold;
+  }
+  .button:hover {
+    background-color: rgba(182,49,95,0.5); 
+    color:  white;
+  }
+  .rosa {
+    background-color: rgba(182,49,95); 
+    color: white;
+}
