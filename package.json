@@ -1,4 +1,4 @@
-{
+{"homepage":"https://bellabalconi.github.io/personalpage",
   "name": "projetoweb2",
   "version": "0.1.0",
   "private": true,
@@ -26,8 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://bellabalconi.github.io/personalpage/build",
-  "eslintConfig": {
+    "eslintConfig": {
     "extends": "react-app"
   },
   "browserslist": [

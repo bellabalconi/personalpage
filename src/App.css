@@ -1,4 +1,7 @@
-
+@font-face {
+  font-family: "Pokemon GB";
+  src: url(./components/Pokemon\ GB.ttf);
+}
 .container2 {
   position: relative;
   width: 100%;
